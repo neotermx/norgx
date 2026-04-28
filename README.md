@@ -1,5 +1,6 @@
 # norgx
-![norgx logo] (images/norgx-wordmark-dark.png)
+![norgx image](images/norgx-wordmark-dark.png)
+
 A terminal editor for the [Norg](https://github.com/nvim-neorg/neorg) file format.
 
 No more lua, plugin managers, or treesitter headaches. Just install and start norging..
