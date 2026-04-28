@@ -1,5 +1,5 @@
 # norgx
-![norgx image](images/norgx-wordmark-dark.png)
+
 
 A terminal editor for the [Norg](https://github.com/nvim-neorg/neorg) file format.
 
