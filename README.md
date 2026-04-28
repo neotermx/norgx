@@ -3,7 +3,7 @@
 
 A terminal editor for the [Norg](https://github.com/nvim-neorg/neorg) file format.
 
-No more lua, plugin managers, or treesitter headaches. Just install and start norging..
+No more lua, plugin managers, or treesitter dependencies. Just install and start norging...
 
 ![norgx editor screenshot](images/screenshot.png)
 
