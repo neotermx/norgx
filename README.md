@@ -15,7 +15,7 @@ No more lua, plugin managers, or treesitter headaches. Just install and start no
 - **Heading navigation** — `]h` / `[h` to jump between headings, `za` to fold/unfold
 - **Link following** — `gf` opens `{:link:}` targets, `gb` goes back
 - **Journal** — `Ctrl+J` opens or creates today's dated entry
-- **PDF export** — `Ctrl+P` converts the current file to PDF via `xelatex`, allowing for printing
+- **PDF export** — `Ctrl+P` converts the current file to PDF via `xelatex` (requires `xelatex` installed)
 - **File tree** — collapsible workspace sidebar with fuzzy search (`/`)
 - **In-file search** — `Ctrl+F` with live match highlighting
 - **Line wrapping** — optional soft-wrap with hanging indent
