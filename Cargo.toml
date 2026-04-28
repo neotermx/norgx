@@ -1,0 +1,23 @@
+[package]
+name = "norgx"
+version = "0.1.0"
+edition = "2021"
+description = "A terminal editor for the Norg file format"
+license = "MIT"
+repository = "https://github.com/neotermx/norgx"
+homepage = "https://github.com/neotermx/norgx"
+keywords = ["norg", "neorg", "editor", "tui", "terminal"]
+categories = ["command-line-utilities", "text-editors"]
+exclude = ["images/", "*.norg", "ascii.txt", "CLAUDE.md"]
+
+[dependencies]
+ratatui = "0.29"
+tui-textarea = { version = "0.7", features = ["crossterm"] }
+crossterm = "0.28"
+anyhow = "1"
+dirs = "5"
+unicode-width = "0.2"
+serde = { version = "1", features = ["derive"] }
+toml = "0.8"
+chrono = { version = "0.4", default-features = false, features = ["clock", "std"] }
+
